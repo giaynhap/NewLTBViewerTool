@@ -1,11 +1,11 @@
-# NEW SALL TOOL
+# NEW LTBViewer TOOL
 View model 3d LTB file.
 ## 
 Cấu trúc lại code cho dễ đọc, tối ưu hóa thuật toán tính toán ma trận.
 ## Screenshot
-![Alt text](screenshot.png "new salltool")
+![Alt text](screenshot.png "new ltbviewer")
 ## Build.
- Để buil được salltool cần, sử dụng visual studio 2010 or later, cài thêm freeglut.
+ Để buil được ltbviewer cần, sử dụng visual studio 2010 or later, cài thêm freeglut.
 
 ## Thành phần
 
